@@ -20,7 +20,7 @@
 
 ### Project: Paw Palace
 
-Welcome to our pet-loving community! Browse and adopt adorable animals, post pets for a new home, and securely request adoptions after logging in. Accept donations via Stripe to support our furry friends.
+Browse and adopt adorable animals, post pets for a new home, and securely request adoptions after logging in. Accept donations via Stripe to support our furry friends.
 
 ### Technologies used:
 
